@@ -1,2 +1,4 @@
-Udacity Machine Learning Exercises
+Machine Learning Exercises
 ====================================
+
+Resource : Udacity
